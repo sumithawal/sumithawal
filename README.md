@@ -28,6 +28,10 @@
 -  [Linkedin](https://www.linkedin.com/in/sumit-hawal-1189b920b/) 
 -  [Kaggle](https://www.kaggle.com/sumithawal)
 
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumithawal&theme=buefy&show_icons=true" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumithawal&theme=buefy&layout=compact" /> -->
+</a>
 
 
 <!---
