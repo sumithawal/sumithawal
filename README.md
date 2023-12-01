@@ -22,7 +22,7 @@
 
 
 - :mailbox: You can reach me with the links below :
--  [Personal website](https://sumithawal.github.io/Portfolio_2/)
+-  [Personal website](https://github.com/sumithawal/sumit_hawal_portfolio.github.io)
 -  [Twitter](https://twitter.com/Sumit_Hawal7)
 -  [Mail](smeethawal@gmail.com)
 -  [Linkedin](https://www.linkedin.com/in/sumit-hawal-1189b920b/) 
