@@ -1,9 +1,8 @@
 
 * 👂 My name is Sumit Hawal
-* 🔭 I’m currently studying Data Science at Northeastern's Khoury College of Computer Science.  
-* 🌱 I’m currently learning natural language processing.
+* 🔭 I recently graduated with my master's in data science from Northeastern University.  
 * 🤝 I’m looking to collaborate on Machine learning, Data Science and analytics projects.
-* 🤔 I’m looking to learn more about HFTs, financial analytics.
+* 🤔 I’m looking to learn more about data science applications in Healthcare, Finance.
 * :speech_balloon: Ask me about anything, happy to help
 
 
